@@ -1,0 +1,31 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(images/hinh-nen-dep-cho-may-tinh-full-hd-2.jpg);
+  width: 100%;
+  height: 450px;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(images/hinh-nen-dep-cho-may-tinh-full-hd-17.jpg);
+  width: 100%;
+  height: 450px;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(images/hinh-nen-dep-cho-may-tinh-full-hd-18.jpg);
+  width: 100%;
+  height: 450px;
+}
+
+footer {
+  padding-top: 230px;
+  padding-left: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+.back1 {
+  padding-right: 70px;
+}
